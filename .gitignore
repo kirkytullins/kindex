@@ -1,0 +1,28 @@
+# Ignorer tous les fichiers html
+indexes/*
+temp/*
+*.zip
+# 
+# Ignorer les objets et les archives
+.gitignore~
+*.[oa]
+*.komodoproject
+jruby/*
+package/*
+exe/*
+mockup/*
+misc/*
+app/public/extjs/resources/sass/*
+vendor/*
+spec/keepme
+inno/*.exe
+inno/*.zip
+inno/scan_creator_setup_backup.iss
+*.tmp
+scan_creator.version
+*.exe
+*.log
+*.jar
+*.html
+*.htm
+
